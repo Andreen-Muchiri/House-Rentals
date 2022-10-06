@@ -1,9 +1,9 @@
 # house-hunting
-Project name:Rental_Homez.
+Project name:**Rental_Homez.**
 
-Author's name:Andreen Muchiri.
+Author's name:**Andreen Muchiri.**
 
-Rental_Homez.
+**Rental_Homez.**
 
 This is an online house-hunting site that allows clients  who are looking forward to relocating or even owning a home, to get access to information about houses near their locations and those which fit their needs.It frees one off the stress that comes along with searching for a home.
 
