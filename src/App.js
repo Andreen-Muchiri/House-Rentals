@@ -19,7 +19,9 @@ function App() {
       <Route path="/property" element={<Property />}/>
       <Route path="/contact" element={<Contact />}/>
     </Routes>
-    {/* <Home /> */}
+    
+     <Home />
+     
     <About/>
     <Property />
     <Contact/> 
