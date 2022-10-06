@@ -63,7 +63,7 @@ You may also see any lint errors in the console.
 
 
 2.Clone the repo;
-     https://github.com/Andreen-Muchiri/house-hunting.git
+   https://github.com/Andreen-Muchiri/House-Rentals.git.
 
 2.Install npm packages.
 
