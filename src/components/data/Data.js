@@ -42,7 +42,6 @@ export const property = [
     },
     {
       id: 6,
-      cover: "./img/p-6.png",
       name: "Banyon Tree Realty",
       location: "Maasai Lodge, Kajiado",
       category: "For Rent",
