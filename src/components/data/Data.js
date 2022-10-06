@@ -34,8 +34,7 @@ export const property = [
     },
     {
       id: 5,
-      cover: "./img/p-5.png",
-      name: "Brick Lane Realty",
+     name: "Brick Lane Realty",
       location: "Ongata Rongai,Kajiado",
       category: "For Rent",
       price: "Ksh.7,000",
