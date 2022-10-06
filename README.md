@@ -43,7 +43,7 @@ Rental_Homez  is an internet based Rental search site  that aims to ensure that 
 
 4.Netlify
 
-GETTING STARTED.
+**GETTING STARTED.**
 
 To start of you are required to follow the live link provided in the repository description (Link provided),then go ahead and type in
 the search section.
