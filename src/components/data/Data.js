@@ -26,7 +26,6 @@ export const property = [
     },
     {
       id: 4,
-      cover: "./img/p-4.png",
       name: "Herringbone Realty",
       location: "Tom Mboya , Kisumu",
       category: "For Rent",
