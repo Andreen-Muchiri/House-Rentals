@@ -18,8 +18,7 @@ export const property = [
     },
     {
       id: 3,
-      cover: "./img/p-7.png",
-      name: "The Real Estate Corner",
+     name: "The Real Estate Corner",
       location: "Dunga ,Kisumu",
       category: "For Rent",
       price: "Ksh 25,000",
