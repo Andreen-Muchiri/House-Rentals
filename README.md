@@ -87,7 +87,7 @@ You may also see any lint errors in the console.
 
 4.Contact .
 
-CONTRIBUTIONS.
+**CONTRIBUTIONS.**
 
 Feel free to make any contributions to this project.Your contributions will be recieved with much appreciation. For any suggestions that would improve this project,kindly fork the repo and create a pull request.
 
@@ -101,7 +101,7 @@ Feel free to make any contributions to this project.Your contributions will be r
 
 5.Open a Pull Request.
 
-LICENSE.
+**LICENSE.**
 
 Distributed under the MIT License.See LICENSE.txt for more information.
 
