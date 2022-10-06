@@ -1,0 +1,40 @@
+{
+    "Homes":[
+        {
+            "id": 1,
+            "Location": "Nairobi ,Kilimani",
+           "Type": "3 Bedroom ",
+            "cover": "./images/location/city-1.png"
+          },
+          {
+            "id": 2,
+            "Location": "Mombasa ",
+            "Type": "1 Bedroom",
+            "cover": "./images/location/city-2.png"
+          },
+          {
+            "id": 3,
+            "Location": "Kiambu",
+             "Type": " Bedsitter",
+             "cover": "./images/location/city-3.png"
+          },
+          {
+           " id": 4,
+           "Location": "Kisumu",
+            "Type": " 2 Bedroom",
+            "cover": "./images/location/city-4.png"
+          },
+          {
+            "id": 5,
+           "Location": "Kajiado",
+            "Type":  "Studio Apartment",
+            "cover": "./images/location/city-5.png"
+          },
+          {
+            "id": 6,
+            "Location": "Ruaka",
+            "Type": " 1 Bedroom ",
+            "cover": "./images/location/city-6.png"
+          }
+    ]
+}
