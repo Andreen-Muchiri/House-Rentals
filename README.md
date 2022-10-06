@@ -49,7 +49,7 @@ To start of you are required to follow the live link provided in the repository 
 the search section.
 
 
-PREREQUISITES.
+**PREREQUISITES.**
 
 Below are the necesities to keep note of while using this web application.
 
