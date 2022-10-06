@@ -69,7 +69,7 @@ You may also see any lint errors in the console.
 
         npm install.
         
-USAGE.
+**USAGE.**
 
 1.First click on the web link provided,
 
