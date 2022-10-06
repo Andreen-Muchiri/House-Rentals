@@ -1,4 +1,4 @@
-# house-hunting
+# House-Hunting
 Project name:**Rental_Homez.**
 
 Author's name:**Andreen Muchiri.**
