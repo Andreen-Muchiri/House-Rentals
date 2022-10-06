@@ -10,8 +10,7 @@ export const property = [
     },
     {
       id: 2,
-      cover: "./img/p-2.png",
-      name: "Fairmount Properties",
+     name: "Fairmount Properties",
       location: "Ruiru, Nairobi",
       category: "For Rent",
       price: "Ksh 30,000",
