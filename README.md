@@ -111,7 +111,7 @@ Name- Andreen Muchiri -andymuchiri@gmail.com
 
 Project-link:https://github.com/Andreen-Muchiri/House-Rentals.git
 
-ACKNOWLEDGEMENT.
+**ACKNOWLEDGEMENT.**
 
 To start of is lots of gratitude to my Moringa School Technical Mentor- Beatrice Wambui -who has been very supportive through this whole process.She has guided me through everything diligently and ensured that I get to deliver my very best.
 
