@@ -105,11 +105,11 @@ Feel free to make any contributions to this project.Your contributions will be r
 
 Distributed under the MIT License.See LICENSE.txt for more information.
 
-CONTACT ME.
+**CONTACT ME.**
 
 Name- Andreen Muchiri -andymuchiri@gmail.com
 
-Project-link: https://github.com/Andreen-Muchiri/house-hunting.git
+Project-link:https://github.com/Andreen-Muchiri/House-Rentals.git
 
 ACKNOWLEDGEMENT.
 
