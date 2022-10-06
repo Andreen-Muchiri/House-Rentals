@@ -33,7 +33,7 @@ This is an online house-hunting site that allows clients  who are looking forwar
 
 Rental_Homez  is an internet based Rental search site  that aims to ensure that house-hunting experience has been made easier by providing an extensive range of information on homes available for renting.
 
-BUILT WITH.
+**BUILT WITH.**
 
 1.CSS
 
